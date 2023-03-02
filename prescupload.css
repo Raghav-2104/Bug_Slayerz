@@ -1,0 +1,61 @@
+*{
+    font-family: poppins;
+    margin: 0;
+    padding:0;
+    box-sizing: content-box;
+}
+#bg {
+    background-image: url('img/background.jpg');
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    filter: blur(5px);
+  }
+
+
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    background-color: teal;
+    text-transform: capitalize;
+}
+div.myform{
+   background-color: steelblue;
+    padding: 30px;
+    border-radius: 5px;
+    width: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+div.myform div.input-field label{
+    display: block;
+    font-weight: 550;
+}
+div.myform div.input-field input{
+    width: 100%;
+    border: 20x solid black;
+    border-radius: 5px;
+    padding: 5px 8px;
+    outline: none;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+div.myform div.submit-btn{
+    text-align: center;
+}
+div.myform div.submit-btn button{
+    padding: 5px 12px;
+    font-weight: 550;
+    background-color: rgb(247, 247, 247);
+    border: 2px solid black;
+    margin-top: 10px;
+}

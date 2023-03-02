@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 910px;
+  object-fit: cover;
+}
+.macbook-air-33-child {
+  position: absolute;
+  top: 131px;
+  left: 390px;
+  background-color: var(--color-gray-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 571px;
+  height: 662px;
+  opacity: 0.7;
+}
+.username1 {
+  position: absolute;
+  top: 205px;
+  left: 419px;
+  font-weight: 500;
+}
+.macbook-air-33-inner,
+.macbook-air-33-item {
+  position: absolute;
+  top: 268px;
+  left: 419px;
+  background-color: var(--color-gainsboro-100);
+  width: 510px;
+  height: 78px;
+  opacity: 0.8;
+}
+.macbook-air-33-inner {
+  top: 432px;
+  height: 76px;
+}
+.password1 {
+  position: absolute;
+  top: 374px;
+  left: 419px;
+  font-weight: 500;
+  display: inline-block;
+  width: 199px;
+}
+.macbook-air-33-child1 {
+  position: absolute;
+  top: 635px;
+  left: 557px;
+  background-color: var(--color-mediumpurple);
+  width: 239px;
+  height: 98px;
+  cursor: pointer;
+}
+.doctors-login,
+.login1 {
+  position: absolute;
+  display: inline-block;
+}
+.login1 {
+  top: 662px;
+  left: 618px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-black);
+  width: 142px;
+}
+.doctors-login {
+  top: 20px;
+  left: 18px;
+  font-size: var(--font-size-2xl);
+  width: 622px;
+  height: 65px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.group-item {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 426px;
+  height: 28px;
+  opacity: 0;
+}
+.dont-have-an1,
+.rectangle-group {
+  position: absolute;
+  width: 426px;
+  height: 30px;
+}
+.dont-have-an1 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.rectangle-group {
+  top: 532px;
+  left: 458px;
+  cursor: pointer;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-itim);
+}
+.macbook-air-33 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

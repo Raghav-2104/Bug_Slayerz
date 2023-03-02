@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.image-3-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1651px;
+  height: 848px;
+  object-fit: cover;
+}
+.home-child {
+  position: absolute;
+  top: 445px;
+  left: 606px;
+  background-color: var(--color-gainsboro-100);
+  width: 389px;
+  height: 74px;
+  cursor: pointer;
+}
+.homeomedic,
+.lets-get-started {
+  position: absolute;
+  top: 467px;
+  left: 717px;
+  display: inline-block;
+  width: 278px;
+}
+.homeomedic {
+  top: 144px;
+  left: 568px;
+  font-size: 87px;
+  color: var(--color-white);
+  width: 576px;
+  height: 89px;
+  mix-blend-mode: normal;
+}
+.u-n-l {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.n-a-t {
+  margin: 0;
+}
+.u-n-l-container {
+  position: absolute;
+  top: 277px;
+  left: 319px;
+  font-size: var(--font-size-8xl);
+  color: #703b0b;
+  white-space: pre-wrap;
+  text-align: center;
+  display: inline-block;
+  width: 964px;
+  height: 56px;
+}
+.image-8-icon {
+  position: absolute;
+  top: 333px;
+  left: 1077px;
+  width: 100.2px;
+  height: 100px;
+  object-fit: cover;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

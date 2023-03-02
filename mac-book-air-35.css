@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-13 {
+  position: absolute;
+  top: 50px;
+  left: -28px;
+  width: 1436px;
+  height: 810px;
+  object-fit: cover;
+}
+.twemojidrop-of-blood {
+  position: absolute;
+  top: 685px;
+  left: 654px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.city {
+  position: absolute;
+  top: 416px;
+  left: 1040px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 192px;
+  height: 47px;
+}
+.macbook-air-35-child {
+  position: absolute;
+  top: 450.25px;
+  left: 245.74px;
+  width: 22.52px;
+  height: 15.75px;
+}
+.macbook-air-35-item {
+  position: absolute;
+  top: 557px;
+  left: 1202px;
+  border-radius: var(--br-md);
+  background-color: var(--color-mediumpurple);
+  width: 149px;
+  height: 42px;
+}
+.finish {
+  position: absolute;
+  top: 559px;
+  left: 1232px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 128px;
+  height: 19px;
+  cursor: pointer;
+}
+.blood-group,
+.email,
+.gender {
+  position: absolute;
+  top: 243px;
+  left: 1040px;
+}
+.email,
+.gender {
+  top: 57px;
+  display: inline-block;
+  width: 168px;
+  height: 72px;
+}
+.gender {
+  top: 246px;
+  left: 564px;
+  width: 154px;
+  height: 57px;
+}
+.age,
+.full-name,
+.mobile-number {
+  position: absolute;
+  top: 62px;
+  left: 559px;
+}
+.age,
+.full-name {
+  top: 246px;
+  left: 55px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 187px;
+  height: 74px;
+}
+.full-name {
+  top: 67px;
+  left: 45px;
+  width: 230px;
+  height: 54px;
+}
+.macbook-air-35-child1,
+.macbook-air-35-child2,
+.macbook-air-35-inner {
+  position: absolute;
+  top: 122px;
+  left: 42px;
+  background-color: var(--color-gainsboro-100);
+  width: 244px;
+  height: 42px;
+}
+.macbook-air-35-child1,
+.macbook-air-35-child2 {
+  top: 303px;
+  left: 45px;
+}
+.macbook-air-35-child2 {
+  left: 564px;
+}
+.macbook-air-35-child3,
+.macbook-air-35-child4,
+.macbook-air-35-child5,
+.macbook-air-35-child6 {
+  position: absolute;
+  top: 121px;
+  left: 1040px;
+  background-color: var(--color-gainsboro-100);
+  width: 244px;
+  height: 42px;
+}
+.macbook-air-35-child4,
+.macbook-air-35-child5,
+.macbook-air-35-child6 {
+  left: 559px;
+}
+.macbook-air-35-child5,
+.macbook-air-35-child6 {
+  top: 463px;
+  left: 1040px;
+}
+.macbook-air-35-child6 {
+  top: 282px;
+  left: 1033px;
+}
+.macbook-air-35 {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-itim);
+}

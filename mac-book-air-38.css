@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.vector-icon {
+  position: absolute;
+  height: 83.33%;
+  width: 83.33%;
+  top: 8.33%;
+  right: 8.33%;
+  bottom: 8.33%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.homeobot {
+  position: absolute;
+  height: 78%;
+  width: 288%;
+  top: 50%;
+  left: 26%;
+  display: inline-block;
+}
+.material-symbolsmode-comment-,
+.vector-icon1 {
+  position: absolute;
+  top: 391px;
+  left: 788px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 6.01%;
+  width: 3.08%;
+  top: 53.37%;
+  right: 50%;
+  bottom: 40.63%;
+  left: 46.92%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.teenyiconschatbot-outline {
+  position: absolute;
+  top: 510px;
+  left: 498px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.image-3-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1651px;
+  height: 848px;
+  object-fit: cover;
+}
+.locate-pharmacy-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 685px;
+  height: 74px;
+  opacity: 0.8;
+}
+.locate-nearby-pharmacy {
+  position: absolute;
+  top: 12px;
+  left: 27px;
+  display: inline-block;
+  width: 473px;
+  height: 45px;
+}
+.image-5-icon,
+.image-6-icon {
+  position: absolute;
+  top: 8px;
+  left: 601px;
+  width: 57px;
+  height: 57px;
+  object-fit: cover;
+}
+.image-6-icon {
+  top: 3px;
+  left: 527px;
+  width: 64px;
+  height: 64px;
+}
+.locate-pharmacy {
+  position: absolute;
+  top: 416px;
+  left: 429px;
+  width: 685px;
+  height: 74px;
+  cursor: pointer;
+  font-size: var(--font-size-8xl);
+}
+.image-4-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 159px;
+  object-fit: cover;
+}
+.homeobot2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.homeobot1 {
+  position: absolute;
+  top: 48.45px;
+  left: 35.11px;
+  display: inline-block;
+  width: 193.68px;
+  height: 52.17px;
+}
+.chatbot {
+  position: absolute;
+  top: 209px;
+  left: 873px;
+  width: 230px;
+  height: 159px;
+  cursor: pointer;
+  color: #749047;
+}
+.or,
+.want-to-chat {
+  position: absolute;
+  display: inline-block;
+}
+.want-to-chat {
+  top: 270px;
+  left: 453px;
+  font-size: 42px;
+  color: #190202;
+  width: 420px;
+  height: 53px;
+}
+.or {
+  top: 510px;
+  left: 732px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  width: 66px;
+  height: 43px;
+}
+.shop-online-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 685px;
+  height: 72px;
+  opacity: 0.8;
+}
+.image-7-icon {
+  position: absolute;
+  top: 11.8px;
+  left: 563.11px;
+  width: 76.56px;
+  height: 48.39px;
+  object-fit: cover;
+}
+.shop-for-medicines {
+  position: absolute;
+  top: 5.9px;
+  left: 22.16px;
+  display: inline-block;
+  width: 522.82px;
+  height: 63.74px;
+}
+.shop-online {
+  position: absolute;
+  top: 570px;
+  left: 429px;
+  width: 685px;
+  height: 72px;
+  font-size: var(--font-size-8xl);
+}
+.macbook-air-38 {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  background-image: url(./public/macbook-air--38@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

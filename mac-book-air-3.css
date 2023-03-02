@@ -1,0 +1,199 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.background-blood-14 {
+  position: absolute;
+  top: 50px;
+  left: -28px;
+  width: 1436px;
+  height: 810px;
+  object-fit: cover;
+}
+.twemojidrop-of-blood1 {
+  position: absolute;
+  top: 685px;
+  left: 654px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.city1 {
+  position: absolute;
+  top: 260px;
+  left: 1040px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 192px;
+  height: 47px;
+}
+.group-inner,
+.macbook-air-3-child {
+  position: absolute;
+  top: 450.25px;
+  left: 245.74px;
+  width: 22.52px;
+  height: 15.75px;
+}
+.group-inner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  width: 149px;
+  height: 42px;
+}
+.finish1,
+.vector-parent {
+  cursor: pointer;
+  position: absolute;
+}
+.finish1 {
+  top: 0;
+  left: 21px;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-itim);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 128px;
+  height: 19px;
+}
+.vector-parent {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 719px;
+  left: 1202px;
+  width: 149px;
+  height: 42px;
+}
+.email1 {
+  top: 57px;
+  left: 1040px;
+  display: inline-block;
+  width: 168px;
+  height: 72px;
+}
+.email1,
+.gender1,
+.mobile-number1 {
+  position: absolute;
+  font-size: var(--font-size-4xl);
+}
+.gender1 {
+  top: 246px;
+  left: 564px;
+  display: inline-block;
+  width: 154px;
+  height: 57px;
+}
+.mobile-number1 {
+  top: 62px;
+  left: 559px;
+}
+.age1,
+.full-name1 {
+  position: absolute;
+  top: 246px;
+  left: 55px;
+  display: inline-block;
+  width: 187px;
+  height: 74px;
+}
+.full-name1 {
+  top: 67px;
+  left: 45px;
+  width: 230px;
+  height: 54px;
+}
+.macbook-air-3-item {
+  position: absolute;
+  top: 122px;
+  left: 42px;
+  background-color: var(--color-gainsboro-100);
+  width: 244px;
+  height: 42px;
+}
+.macbook-air-3-child1,
+.macbook-air-3-child2,
+.macbook-air-3-child3,
+.macbook-air-3-child4,
+.macbook-air-3-inner {
+  position: absolute;
+  top: 303px;
+  left: 45px;
+  background-color: var(--color-gainsboro-100);
+  width: 244px;
+  height: 42px;
+}
+.macbook-air-3-child1,
+.macbook-air-3-child2,
+.macbook-air-3-child3,
+.macbook-air-3-child4 {
+  left: 564px;
+}
+.macbook-air-3-child2,
+.macbook-air-3-child3,
+.macbook-air-3-child4 {
+  top: 121px;
+  left: 1040px;
+}
+.macbook-air-3-child3,
+.macbook-air-3-child4 {
+  left: 559px;
+}
+.macbook-air-3-child4 {
+  top: 307px;
+  left: 1033px;
+}
+.upload-your-credentials {
+  position: absolute;
+  top: 461px;
+  left: 565px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 306px;
+  height: 52px;
+  backdrop-filter: blur(4px);
+  -webkit-text-stroke: 1px #000;
+}
+.frame-child3,
+.frame-child4 {
+  position: absolute;
+  top: 0;
+  left: 31px;
+  background-color: var(--color-gainsboro-100);
+  width: 199px;
+  height: 54px;
+}
+.frame-child4 {
+  top: 11px;
+  left: 57px;
+  width: 144px;
+  height: 30px;
+}
+.here {
+  position: absolute;
+  top: 13px;
+  left: 104px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 513px;
+  left: 559px;
+  width: 262px;
+  height: 59px;
+  overflow: hidden;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+}
+.macbook-air-3 {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-itim);
+}
